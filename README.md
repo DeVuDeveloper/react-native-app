@@ -59,6 +59,9 @@ cd react-native-app
 npm install
 ```
 
+### Create Api-key
+ Navigate to [here](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch), and create an api-key for your application.
+
 ### Start server
 
 ```bash
@@ -66,7 +69,11 @@ npm start
 ```
 ### Install expo-go
 
-Just go to google play and install latest expo-go app
+  Navigate to google play and install latest expo-go app
+
+### Run in your mobile device
+
+  Scan code with your camera.
 
 ### Troubleshoots
 
