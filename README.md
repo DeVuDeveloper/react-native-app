@@ -24,7 +24,7 @@
 ## Description 🏗️
 
 This is an example of how to create a React Native application. 
-Creating an application with the latest version of expo and router. Best practices for React Native were used. The main idea is to show you how to make a boilerplate for a mobile application. You can use any backend, in this case I'm using the job search api. You can find it  [here](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch). Below I will show you how to create an api-key. If you are a web developer, this application can help you find a job.
+Creating an application with the latest version of expo and router. Best practices for React Native were used. The main idea is to show you how to make a boilerplate for a mobile application. You can use any backend, in this case I'm using the job search api from rapid. You can find it [here](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch).  If you are a web developer, this application can help you find a job.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
