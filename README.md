@@ -132,7 +132,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 - Push to the Branch (git push origin feature/AmazingFeature)
 - Open a Pull Request
 
-Feel free to check the [issues page](https://github.com/VuDej/restaurant-frontend/issues).
+Feel free to check the [issues page](https://github.com/DeVuDeveloper/react-native-app.gitissues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
