@@ -4,14 +4,14 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   
-<a href="https://github.com/DeVuDeveloper/rails-for-react-native.git/#readme"><strong>Explore the docs »</strong></a>
+<a href="https://github.com/DeVuDeveloper/react-native-app.git/#readme"><strong>Explore the docs »</strong></a>
 <br />
 <br />
- <a href="https://github.com/DeVuDeveloper/rails-for-react-native">View Demo</a>
+ <a href="https://github.com/DeVuDeveloper/react-native-app.git">View Demo</a>
 .
-<a href="https://github.com/DeVuDeveloper/rails-for-react-native/issues">Report Bug</a>
+<a href="https://github.com/DeVuDeveloper/react-native-app.git/issues">Report Bug</a>
 ·
-<a href="https://github.com/DeVuDeveloper/rails-for-react-native/issues">Request Feature</a>
+<a href="https://github.com/DeVuDeveloper/react-native-app.git/issues">Request Feature</a>
 
 </div>
 
