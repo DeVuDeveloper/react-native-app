@@ -1,4 +1,4 @@
-# Find a Job
+# Find Your Dream Job
 
 <div id="top"></div>
 <!-- PROJECT LOGO -->
@@ -7,8 +7,7 @@
 <a href="https://github.com/DeVuDeveloper/react-native-app.git/#readme"><strong>Explore the docs »</strong></a>
 <br />
 <br />
- <a href="https://github.com/DeVuDeveloper/react-native-app.git">View Demo</a>
-.
+
 <a href="https://github.com/DeVuDeveloper/react-native-app.git/issues">Report Bug</a>
 ·
 <a href="https://github.com/DeVuDeveloper/react-native-app.git/issues">Request Feature</a>
@@ -17,16 +16,25 @@
 
 <!-- About the project -->
 
-## Screenshots
-
-![Screenshot](src/assets/screenshot.png)
 
 ## Description 🏗️
 
-This is an awesome mobile application made with Ruby on Rails  
-Creating an application with the latest version of expo and router. Best practices for React Native were used. The main idea is to show you how to make a boilerplate for a mobile application. You can use any backend, in this case I'm using the job search api from rapid. You can find it [here](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch).  If you are a web developer, this application can help you find a job.
+Find Your Dream Job is a mobile application that can help you find a job, made with React Native. This this application can help you find a dream job. 
+You can search for desired jobs, view job types and even apply for a job.
+Application is created with the latest version of expo and router. Best practices for React Native were used, making clean, organized, and maintainable code with proper architecture. Fetching data from an external API and integrate it.
+<br />
+The main idea is to show you how to make a boilerplate for a mobile application. You can use any backend, in this case I'm using the job search api from rapid. You can find it [here](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch). 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## Screenshots
+
+![Screenshot](assets/images/screenshot.jpg)
+
+## Live Preview
+If you get Unmatched Routes error, just tap back button to navigate to Homepage, or scan code again!!!
+
+![Scan Code](assets/images/app.png)
 
 ## Getting Started 🏁
 

@@ -4,7 +4,7 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "rn",
-    "slug": "rn"
+    "name": "find-your-dream-job",
+    "slug": "find-your-dream-job"
   }
 }
