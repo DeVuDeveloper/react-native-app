@@ -19,9 +19,8 @@
 
 ## Description 🏗️
 
-Find Your Dream Job is a mobile application that can help you find a job, made with React Native. This this application can help you find a dream job. 
-You can search for desired jobs, view job types and even apply for a job.
-Application is created with the latest version of expo and router. Best practices for React Native were used, making clean, organized, and maintainable code with proper architecture. Fetching data from an external API and integrate it.
+Find Your Dream Job is a mobile application that can help you find a job, made with React Native. This application can help you find a dream job. You can search for desired jobs, view job types, and even apply for a job. Application is created with the latest version of expo and router. Best practices for React Native were used, making clean, organized, and maintainable code with proper architecture. Fetching data from an external API and integrating it.
+
 <br />
 The main idea is to show you how to make a boilerplate for a mobile application. You can use any backend, in this case I'm using the job search api from rapid. You can find it [here](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch). 
 
